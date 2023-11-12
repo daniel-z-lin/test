@@ -8,6 +8,32 @@
         "id": "https://daniel-z-lin.github.io/test/test-dlf/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3112.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://daniel-z-lin.github.io/test/annotations/test-dlf-canvas-1-commentary.json",
+            "label": {
+              "none": ["commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://daniel-z-lin.github.io/test/annotations/test-dlf-canvas-1-song.json",
+            "label": {
+              "none": ["song"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://daniel-z-lin.github.io/test/annotations/test-dlf-canvas-1---.json",
+            "label": {
+              "none": ["--"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://daniel-z-lin.github.io/test/test-dlf/canvas-1/paintings",
